@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Ios Development Projects:</h2>
 
-  - [Active Directory Home lab](https://github.com/bulabulai/Algorithms-Practice)
+  - [Active Directory Home lab](https://github.com/bulabulai/activeDirectoryLab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
