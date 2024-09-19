@@ -1,6 +1,6 @@
 <h1>Hi, I'm Israel! </h1>
 
-<h2>👨‍💻 Ios Development Projects:</h2>
+<h2>👨‍💻 This is My I.T Projects:</h2>
 
   - [Active Directory Home lab](https://github.com/bulabulai/activeDirectoryLab)
 
