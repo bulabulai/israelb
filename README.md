@@ -1,4 +1,4 @@
-<h1>Hi, I'm Israel! </h1>
+<h1>Hi, I'm Israel </h1>
 
 <h2>👨‍💻 This is My I.T Projects:</h2>
 
@@ -8,6 +8,11 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+
+
+
+[cloud project]: https://docs.google.com/document/d/1dXjBbmEtOMcv1fMRR_eTobx2I6yNIFOxrvm0yoSxjUg/edit?usp=sharing
+[linkedin]: https://www.linkedin.com/in/israel-mwami-bulabula-8b6052192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBxx1yicjSWeLu5QUlwkgwA%3D%3D
 
 
 
